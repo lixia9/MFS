@@ -99,6 +99,10 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 ## 前端性能优化
 
 ## CSS3 动画
+[animejs](http://animejs.com/)  
+[driven-animation](http://tobiasahlin.com/blog/meaningful-motion-w-action-driven-animation/)  
+[加载动画](http://tobiasahlin.com/spinkit/)  
+[转场动画](http://tobiasahlin.com/moving-letters/#)
 
 ## Nginx
 [nginx](http://nginx.org/en/)  
