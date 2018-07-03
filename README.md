@@ -109,7 +109,8 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [JavaScript深入之闭包](https://github.com/mqyqingfeng/Blog/issues/9) 
 [2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)  
 [每个 JavaScript 工程师都应当知道的 10 个面试题](https://segmentfault.com/a/1190000014143796)  
-[JS三座大山 原型 闭包 异步](http://www.cnblogs.com/peiyu1988/p/8855438.html)    
+[JS三座大山 原型 闭包 异步](http://www.cnblogs.com/peiyu1988/p/8855438.html) 
+[面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)     
 
 
 
