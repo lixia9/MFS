@@ -54,8 +54,9 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 
 
 ## Nodejs Server 
-[nestjs](https://github.com/nestjs/nest) [github-nestjs](https://docs.nestjs.com/)  
-[eggjs](http://eggjs.org/)
+[nestjs](https://github.com/nestjs/nest)  
+[github-nestjs](https://docs.nestjs.com/)    
+[eggjs](http://eggjs.org/)  
 [egg_mysql_eg](https://github.com/lixia9/egg_mysql)  
 [sailsjs](https://sailsjs.com/)  
 [thinkjs](https://www.thinkjs.org/doc/index.html)
@@ -96,6 +97,12 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 ## Nginx
 
 ## 构建打包
+[webpack](https://www.webpackjs.com/)  
+[poi](https://poi.js.org/#/)  
+[gruntjs](http://www.gruntjs.net/)  
+[glup](https://www.gulpjs.com.cn/)   
+[parceljs](https://parceljs.docschina.org/)  
+[rollup](https://rollup.docschina.org/) 
 
 ## 小程序
 
