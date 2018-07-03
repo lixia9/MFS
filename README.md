@@ -13,6 +13,7 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [w3cplus](http://www.w3cplus.com/) 
 [melonteam](http://melonteam.com/)  
 [w3ctech](https://www.w3ctech.com/)  
+[你学的不仅仅是技术，还可能是梦想](http://www.runoob.com/)    
 [efe](http://efe.baidu.com/)    
 [qqfe](http://qqfe.org/)   
 [web前端开发](http://www.css88.com/)   
@@ -82,7 +83,12 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 ## UI
 [bulma](https://bulma.io/)  
 [手绘风格的HTML](https://wiredjs.com/)  
-[muse-ui](https://muse-ui.org/#/zh-CN)  
+[muse-ui](https://muse-ui.org/#/zh-CN)    
+[onsen](https://onsen.io/vue/)   
+[h-ui](http://www.h-ui.net/Hui-4.1-buttonGroups.shtml)  
+[mint-ui](http://mint-ui.github.io/docs/#/)  
+[nowUI](https://www.invisionapp.com/now)  
+[layui](http://www.layui.com/)
 
 ## Http
 [大型网站的 HTTPS 实践](https://mp.weixin.qq.com/s/hy0qauQ_hvAJNMYOHvnxLg)  
@@ -95,7 +101,9 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 ## CSS3 动画
 
 ## Nginx
-
+[nginx](http://nginx.org/en/)  
+[nginxCN](http://www.nginx.cn/doc/index.html)  
+[nginx跨域](http://www.nginx.cn/4592.html)  
 ## 构建打包
 [webpack](https://www.webpackjs.com/)  
 [poi](https://poi.js.org/#/)  
@@ -105,10 +113,15 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [rollup](https://rollup.docschina.org/) 
 
 ## 小程序
+[mpvue](http://mpvue.com/)  
+[wepy](https://tencent.github.io/wepy/)  
 
 ## 你可能不需要jQuery
+[你可能不需要jQuery](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 
 ## TypeScript
+[TypeScript](https://www.tslang.cn/)
+
 ## 游戏开发
 [threejs](https://threejs.docschina.org/)    
 [createjs](http://www.createjs.cc/)  
