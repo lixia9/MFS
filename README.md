@@ -6,7 +6,8 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 
 ## 前端的范畴
 [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)  
-[前端大杂烩](https://www.kancloud.cn/jikeytang/qq/81134)
+[前端大杂烩](https://www.kancloud.cn/jikeytang/qq/81134)  
+[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## 前端教程网站
 [w3cplus](http://www.w3cplus.com/) 
@@ -30,7 +31,8 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [vuex](https://vuex.vuejs.org/zh/guide/)  
 [nuxtjs](https://zh.nuxtjs.org/)  
 [element](http://element-cn.eleme.io/#/zh-CN/component/installation)  
-[v-charts](https://v-charts.js.org/#/)
+[v-charts](https://v-charts.js.org/#/)  
+[Vue.js 组件编码规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md#%E9%81%BF%E5%85%8D-this.$parent)
 
 
 ## React
@@ -46,7 +48,10 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 ## React_Native
 [reactnative](https://reactnative.cn/)  
 [reactnavigation->导航组件](https://reactnavigation.org/)  
-[nativebase->非常好的UI组件](http://docs.nativebase.io/Components.html)
+[nativebase->非常好的UI组件](http://docs.nativebase.io/Components.html)  
+[react-native-swiper](https://github.com/leecade/react-native-swiper)    
+[React Native应用部署、热更新-CodePush](https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E3%80%81%E7%83%AD%E6%9B%B4%E6%96%B0-CodePush%E6%9C%80%E6%96%B0%E9%9B%86%E6%88%90%E6%80%BB%E7%BB%93)  
+
 
 ## Nodejs Server 
 [nestjs](https://github.com/nestjs/nest) [github-nestjs](https://docs.nestjs.com/)  
@@ -74,8 +79,15 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [karma](https://karma-runner.github.io/2.0/index.html)  
 
 ## UI
+[bulma](https://bulma.io/)  
+[手绘风格的HTML](https://wiredjs.com/)  
+[muse-ui](https://muse-ui.org/#/zh-CN)  
 
 ## Http
+[大型网站的 HTTPS 实践](https://mp.weixin.qq.com/s/hy0qauQ_hvAJNMYOHvnxLg)  
+[http协议缓存机制](https://segmentfault.com/a/1190000010690320)   
+[HTTP缓存详解](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651662891&idx=1&sn=a319d5225f48d08341e5ba130566706c)   
+
 
 ## 前端性能优化
 
@@ -87,10 +99,16 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 
 ## 小程序
 
-## jQuery插件 和 你可能不需要jQuery
+## 你可能不需要jQuery
 
 ## TypeScript
 ## 游戏开发
+[threejs](https://threejs.docschina.org/)    
+[createjs](http://www.createjs.cc/)  
+[layabox](https://www.layabox.com/)    
+[白鹭](https://www.egret.com/)   
+[cocos2d](http://www.cocos.com/)
+
 ## 图形UI
 [花瓣](http://huaban.com/)   
 [isux](https://isux.tencent.com/)  
@@ -115,7 +133,8 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)  
 [每个 JavaScript 工程师都应当知道的 10 个面试题](https://segmentfault.com/a/1190000014143796)  
 [JS三座大山 原型 闭包 异步](http://www.cnblogs.com/peiyu1988/p/8855438.html)   
-[面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)     
+[面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)  
+[你可以写一个vue的双向数据绑定吗？](https://segmentfault.com/a/1190000014274840)     
 
 
 
