@@ -28,17 +28,25 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [vueloader](https://vue-loader-v14.vuejs.org/zh-cn/)  
 [vuerouter](https://router.vuejs.org/zh/)  
 [vuex](https://vuex.vuejs.org/zh/guide/)  
-[nuxtjs](https://zh.nuxtjs.org/)
+[nuxtjs](https://zh.nuxtjs.org/)  
+[element](http://element-cn.eleme.io/#/zh-CN/component/installation)  
+[v-charts](https://v-charts.js.org/#/)
 
 
 ## React
 [reactjs](https://reactjs.org/)  
 [react学习需要准备什么技能](https://github.com/adam-golab/react-developer-roadmap)  
-[react中文](http://www.css88.com/react/)    
+[react中文](http://www.css88.com/react/)  
+[redux中文](https://cn.redux.js.org/)  
+[element-react](https://elemefe.github.io/element-react/#/zh-CN/quick-start)    
+[ant](https://ant.design/index-cn)  
 [react-day-picker,时间组件比较重要，这个单拿出来](https://github.com/gpbl/react-day-picker)  
 
 
 ## React_Native
+[reactnative](https://reactnative.cn/)  
+[reactnavigation->导航组件](https://reactnavigation.org/)  
+[nativebase->非常好的UI组件](http://docs.nativebase.io/Components.html)
 
 ## Nodejs Server 
 [nestjs](https://github.com/nestjs/nest) [github-nestjs](https://docs.nestjs.com/)  
@@ -54,7 +62,10 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [设计模式2](https://www.jianshu.com/p/4a1352e0da8c)  
 
 
-## amazeHtml
+## 经常浏览的网站
+[css学习的](https://css-tricks.com/)  
+[凹凸实验室](https://aotu.io/index.html)  
+[各种漂亮的特效](https://tympanus.net/codrops/category/tutorials/)  
 
 ## 前端自动化
 
@@ -71,8 +82,6 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 ## 构建打包
 
 ## 小程序
-
- 
 
 ## jQuery插件 和 你可能不需要jQuery
 
@@ -93,7 +102,16 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [吕小鸣前端博客](https://www.nihaoshijie.com.cn/)  
 [阿城的日志](https://qiutc.me/)  
 ## JS技巧
+[JavaScript 的常见注意点](https://segmentfault.com/a/1190000012730162)    
+[28 个 JavaScript 编程黑科技](https://segmentfault.com/a/1190000010752361)
 ## 面试题
+[37个JavaScript基本面试问题和解答](https://www.toptal.com/javascript/interview-questions)    
+[JavaScript深入之闭包](https://github.com/mqyqingfeng/Blog/issues/9) 
+[2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)  
+[每个 JavaScript 工程师都应当知道的 10 个面试题](https://segmentfault.com/a/1190000014143796)  
+[JS三座大山 原型 闭包 异步](http://www.cnblogs.com/peiyu1988/p/8855438.html)    
+
+
 
 
 
