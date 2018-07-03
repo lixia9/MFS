@@ -23,11 +23,11 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 []()
 
 ## VUE
-[VUE](https://vuejs.org/index.html)  
-[VueCli](vuejs)  
-[Vue-Loader](https://vue-loader-v14.vuejs.org/zh-cn/)  
-[Vue-Router](https://router.vuejs.org/zh/)  
-[Vuex](https://vuex.vuejs.org/zh/guide/)  
+[vue](https://vuejs.org/index.html)  
+[vuecli](vuejs)  
+[vueloader](https://vue-loader-v14.vuejs.org/zh-cn/)  
+[vuerouter](https://router.vuejs.org/zh/)  
+[vuex](https://vuex.vuejs.org/zh/guide/)  
 [nuxtjs](https://zh.nuxtjs.org/)
 
 
