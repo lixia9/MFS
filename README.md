@@ -67,7 +67,11 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [凹凸实验室](https://aotu.io/index.html)  
 [各种漂亮的特效](https://tympanus.net/codrops/category/tutorials/)  
 
-## 前端自动化
+## 前端自动化测试
+[jestjs](http://jestjs.io/zh-Hans/)  
+[vue-test-utils](https://vue-test-utils.vuejs.org/)  
+[Puppeteer](https://developers.google.cn/web/tools/puppeteer/?hl=zh-cn)   
+[karma](https://karma-runner.github.io/2.0/index.html)  
 
 ## UI
 
@@ -86,15 +90,16 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 ## jQuery插件 和 你可能不需要jQuery
 
 ## TypeScript
-
+## 游戏开发
 ## 图形UI
 [花瓣](http://huaban.com/)   
 [isux](https://isux.tencent.com/)  
 [tgideas](http://tgideas.qq.com/)  
 [牛大拿](http://www.niudana.com/)  
-## 游戏开发
-
 ## 技术周刊
+[奇舞周刊--推荐](https://weekly.75team.com/)  
+[百度FEX](http://fex.baidu.com/)  
+[javascriptweekly](https://javascriptweekly.com/)
 
 ## 技术博客
 [cssforest](http://blog.cssforest.org/)  
@@ -109,7 +114,7 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [JavaScript深入之闭包](https://github.com/mqyqingfeng/Blog/issues/9) 
 [2018阿里巴巴前端面试总结(题目+答案)](https://blog.ihoey.com/posts/Interview/2018-02-28-alibaba-interview.html)  
 [每个 JavaScript 工程师都应当知道的 10 个面试题](https://segmentfault.com/a/1190000014143796)  
-[JS三座大山 原型 闭包 异步](http://www.cnblogs.com/peiyu1988/p/8855438.html) 
+[JS三座大山 原型 闭包 异步](http://www.cnblogs.com/peiyu1988/p/8855438.html)   
 [面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)     
 
 
