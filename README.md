@@ -1,3 +1,9 @@
+
+# [MFS](https://github.com/lixia9/MFS)
+
+
+
+MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实例的会在URL后面做相应的备注。项目涵盖了CSS、JS、HTML、VUE、React、React-Native、Webpack、等流行的框架以及一些非常有特色的库、收集整理了某个领域的先关文章。(不是越多越好，而是越适合自己越好)
 <!-- TOC -->
 
 - [[MFS](https://github.com/lixia9/MFS)](#mfshttpsgithubcomlixia9mfs)
@@ -29,12 +35,6 @@
     - [Author](#author)
 
 <!-- /TOC -->
-# [MFS](https://github.com/lixia9/MFS)
-
-
-
-MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实例的会在URL后面做相应的备注。项目涵盖了CSS、JS、HTML、VUE、React、React-Native、Webpack、等流行的框架以及一些非常有特色的库、收集整理了某个领域的先关文章。(不是越多越好，而是越适合自己越好)
-
 ## 前端的范畴
 [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)  
 [前端大杂烩](https://www.kancloud.cn/jikeytang/qq/81134)  
@@ -158,7 +158,8 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [你可能不需要jQuery](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 
 ## TypeScript
-[TypeScript](https://www.tslang.cn/)
+[TypeScript](https://www.tslang.cn/)  
+[TS 报告](https://juejin.im/post/59c46bc86fb9a00a4636f939)
 
 ## 游戏开发
 [threejs](https://threejs.docschina.org/)    
