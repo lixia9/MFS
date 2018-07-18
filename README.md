@@ -85,7 +85,7 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [react-native-swiper](https://github.com/leecade/react-native-swiper)    
 [React Native应用部署、热更新-CodePush](https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E3%80%81%E7%83%AD%E6%9B%B4%E6%96%B0-CodePush%E6%9C%80%E6%96%B0%E9%9B%86%E6%88%90%E6%80%BB%E7%BB%93)   
 [ui-toolkit](https://shoutem.github.io/docs/ui-toolkit)  
-[ui-teaset](https://github.com/rilyu/teaset)
+[ui-teaset](https://github.com/rilyu/teaset)  
 [react-native-material](http://react-native-material-design.github.io/)  
 
 
@@ -110,10 +110,11 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [各种漂亮的特效](https://tympanus.net/codrops/category/tutorials/)  
 
 ## 前端自动化测试
+[karma](https://karma-runner.github.io/2.0/index.html)  
 [jestjs](http://jestjs.io/zh-Hans/)  
 [vue-test-utils](https://vue-test-utils.vuejs.org/)  
-[Puppeteer](https://developers.google.cn/web/tools/puppeteer/?hl=zh-cn)   
-[karma](https://karma-runner.github.io/2.0/index.html)  
+[Puppeteer](https://developers.google.cn/web/tools/puppeteer/?hl=zh-cn)  
+[vue单元测试](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227396&idx=1&sn=a493193d1e12148df7ecb54cb8a814a6&chksm=bd495c808a3ed596d858480c183bfc3f587668cc1ecaac25f3c4efd3357f0eb099c03fc822bd&scene=21#wechat_redirect)   
 
 ## UI
 [21个vueui库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247489128&idx=1&sn=eb12f6b500274a8df8fb1fccc4f6eda3&chksm=f951a32bce262a3d9d6f108e7942cc6d70a7822ffb14e5059e9b5570200559b5b4731d062424#rd)  
