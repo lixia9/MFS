@@ -178,7 +178,7 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [tgideas](http://tgideas.qq.com/)  
 [牛大拿](http://www.niudana.com/)  
 ## 技术周刊
-[前端精读周刊](https://github.com/dt-fe/weekly)  
+[前端精读周刊](https://github.com/dt-fe/weeklyweekly)  
 [奇舞周刊--推荐](https://weekly.75team.com/)  
 [百度FEX](http://fex.baidu.com/)  
 [javascriptweekly](https://javascriptweekly.com/)
