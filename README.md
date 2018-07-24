@@ -190,7 +190,8 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [阿城的日志](https://qiutc.me/)  
 ## JS技巧
 [JavaScript 的常见注意点](https://segmentfault.com/a/1190000012730162)    
-[28 个 JavaScript 编程黑科技](https://segmentfault.com/a/1190000010752361)
+[28 个 JavaScript 编程黑科技](https://segmentfault.com/a/1190000010752361)  
+[史上最全JS验证]( JavaScript fluent validation library)
 ## 面试题
 [37个JavaScript基本面试问题和解答](https://www.toptal.com/javascript/interview-questions)    
 [JavaScript深入之闭包](https://github.com/mqyqingfeng/Blog/issues/9) 
