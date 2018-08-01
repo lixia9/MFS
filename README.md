@@ -105,6 +105,7 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 
 
 ## 经常浏览的网站
+[前端基础--推荐](https://yuchengkai.cn/docs/zh/frontend/)  
 [css学习的](https://css-tricks.com/)  
 [凹凸实验室](https://aotu.io/index.html)  
 [各种漂亮的特效](https://tympanus.net/codrops/category/tutorials/)  
@@ -134,6 +135,7 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 
 
 ## 前端性能优化
+[网站性能优化实战——从12.67s到1.06s的故事](https://juejin.im/post/5b0b7d74518825158e173a0c)
 
 ## CSS3 动画 和其他动画
 [animejs](http://animejs.com/)    
@@ -189,6 +191,8 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [吕小鸣前端博客](https://www.nihaoshijie.com.cn/)  
 [阿城的日志](https://qiutc.me/)  
 ## JS技巧
+[JavaScript专题系列20篇](https://juejin.im/post/59eff1fb6fb9a044ff30a942)   
+[最全正则](https://juejin.im/post/5b5db5b8e51d4519155720d2)   
 [JavaScript 的常见注意点](https://segmentfault.com/a/1190000012730162)    
 [28 个 JavaScript 编程黑科技](https://segmentfault.com/a/1190000010752361)  
 [史上最全JS验证](https://github.com/imbrn/v8n)
