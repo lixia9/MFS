@@ -203,7 +203,9 @@ MFS 项目主要是用来做书签整理的 其中部分项目是有基础的实
 [每个 JavaScript 工程师都应当知道的 10 个面试题](https://segmentfault.com/a/1190000014143796)  
 [JS三座大山 原型 闭包 异步](http://www.cnblogs.com/peiyu1988/p/8855438.html)   
 [面试的信心来源于过硬的基础](https://segmentfault.com/a/1190000013331105)  
-[你可以写一个vue的双向数据绑定吗？](https://segmentfault.com/a/1190000014274840)     
+[你可以写一个vue的双向数据绑定吗？](https://segmentfault.com/a/1190000014274840)    
+[前端面试合集1](https://yuchengkai.cn/docs/zh/frontend/)   
+[前端面试合集2](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers  )  
 
 
 
